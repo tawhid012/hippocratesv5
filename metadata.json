@@ -1,0 +1,11 @@
+{
+  "name": "Hippocrates AI",
+  "description": "AI-powered clinical intelligence platform for patients and doctors",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
